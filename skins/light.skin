@@ -1,0 +1,128 @@
+// Created Skin constructor v1.02
+// by MWcorp
+
+//----------
+//Fondo de las teclas
+//----------
+//Color de inicio del gradiente para el fondo de la tecla
+KeyBackStartColor=0xffEDEDF5
+
+//Color final del gradiente
+KeyBackEndColor=0xffEDEDF5
+
+//Tipo de gradiente. 0: lineal, 1: radial
+KeyBackPressedGradientType=1
+
+//Color de inicio del gradiente para el fondo de la tecla en estado presionado
+KeyBackPressedStartColor=0xff000000
+
+//Color final del gradiente para el fondo de la tecla en estado presionado
+KeyBackPressedEndColor=0xff222222
+
+//Tipo de gradiente de las teclas en estado presionado. 0: lineal, 1 : radial
+KeyBackGradientType=0
+
+
+//----------
+//Texto sobre las teclas
+//----------
+//Color del texto (etiquetas y símbolos en las teclas)
+KeyTextColor=0xff4b637a
+
+//Negrita (1) si no (0). Si no está establecida, se aplicará la fuente normal
+KeyTextBold=0
+
+//Color del símbolo adicional
+KeySymbolColor=0xff816BA3
+
+//Color del texto en estado presionado
+KeyTextPressedColor=0xff566270
+
+//Color del símbolo en estado presionado
+KeySymbolPressedColor=0xffc5c500
+
+
+//----------
+//Contorno de las teclas
+//----------
+//Color de inicio del gradiente para el contorno de las teclas
+KeyStrokeStartColor=0xffEDEDF5
+
+//Color final del gradiente para el contorno de las teclas
+KeyStrokeEndColor=0xffEDEDF5
+
+//Color de inicio del gradiente para el contorno de las teclas en estado presionada
+KeyPressedStrokeStartColor=0xff1e1f3e
+
+//Color final del gradiente para el contorno de las teclas en estado presionado
+KeyPressedStrokeEndColor=0xff1e1f3e
+
+
+//----------
+//Fondo del teclado
+//----------
+//Color de inicio del gradiente para el fondo del teclado
+KeyboardBackgroundStartColor=0xffffffff
+
+//Color final del gradiente para el fondo del teclado
+KeyboardBackgroundEndColor=0xffffffff
+
+//Tipo de gradiente. 0: lineal, 1 : radial
+KeyboardBackgroundGradientType=1
+
+
+//----------
+//Valores de las teclas especiales (Shift, Backspace, etc.).
+//----------
+//Color del texto sobre la tecla
+SpecKeyTextColor=0xffffffff
+
+//Color del símbolo adicional
+SpecKeySymbolColor=0xffffffff
+
+//Color del texto en estado presionado
+SpecKeyTextPressedColor=0xffffffff
+
+//Color del símbolo adicional en estado presionado
+SpecKeySymbolPressedColor=0xffff0000
+
+//Color de inicio del gradiente para el fondo de la tecla
+SpecKeyBackStartColor=0xff816BA3
+
+//Color final del gradiente para el fondo de la tecla
+SpecKeyBackEndColor=0xff816BA3
+
+//Color de inicio del gradiente para el contorno de las teclas
+SpecKeyStrokeStartColor=0xff474747
+
+//Color final del gradiente para el contorno de las teclas
+SpecKeyStrokeEndColor=0xff474747
+
+//Color de inicio del gradiente para el fondo de la tecla en estado presionado
+SpecKeyBackPressedStartColor=0xffff0000
+
+//Color final del gradiente para el fondo de la tecla en estado presionado
+SpecKeyBackPressedEndColor=0xff002020
+
+//Tipo de gradiente. 0: lineal, 1 : radial
+SpecKeyBackPressedGradientType=1
+
+//Color de inicio del gradiente para el contorno de las teclas en estado presionada
+SpecKeyPressedStrokeStartColor=0xff005050
+
+//Color final del gradiente para el contorno de las teclas en estado presionado
+SpecKeyPressedStrokeEndColor=0xff005050
+
+
+//----------
+//General
+//----------
+//Tamaño de sangría del fondo de la tecla (en pixeles) desde el rectángulo completo de la tecla
+KeyGapSize=3
+
+//Radio de redondeo del rectángulo de la tecla en el eje X, si no está establecido: 9
+KeyBackCornerX=15
+
+//Radio de redondeo del rectángulo de la tecla en el eje Y, si no está establecido: 9
+KeyBackCornerY=15
+

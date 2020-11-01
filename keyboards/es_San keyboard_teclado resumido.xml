@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Keyboard xmlns:android="http://schemas.android.com/apk/res/android" android:keyWidth="10.0%p">
+ <Row>
+  <Key android:longCode= "-502" android:keyLabel= "&#128203;\nq"/> 
+  <Key android:keyLabel="/\\\nw" android:popupCharacters="v2 / \" />
+  <Key android:keyLabel="&#233;\ne"/>
+  <Key android:keyLabel="copy\nr" android:longCode="-320" />
+  <Key android:keyLabel="paste\nt" android:longCode="-321"/>
+  <Key android:keyLabel="&#8593;\ny" android:longCode="19"/>
+  <Key android:keyLabel="&#250;&#252;\nu" android:popupCharacters="v2 &#250; &#252;" />
+  <Key android:keyLabel="&#237;\ni" />
+  <Key android:keyLabel="&#243;\no" />
+  <Key android:keyLabel="&#127759;\np" android:longCode="-21"/>
+ </Row>
+ <Row>
+  <Key android:keyLabel="&#225;\na" />
+  <Key android:keyLabel="&lt;&gt;\ns" android:popupCharacters="v2 &lt; &gt;"/>
+  <Key android:keyLabel="\nd" />
+  <Key android:keyLabel="cut\nf" android:longCode="-322"/>
+  <Key android:keyLabel="&#8592;\ng"  android:longCode="21"/>
+  <Key android:keyLabel="&#8595;\nh" android:longCode="20" />
+  <Key android:keyLabel="&#8594;\nj"  android:longCode="22"/>
+  <Key android:keyLabel="\nk" />
+  <Key android:keyLabel="=\nl" />
+  <Key android:keyLabel="&quot;\n&#241;" />
+ </Row>
+ <Row>
+  <Key android:codes="-1" android:keyIcon="@drawable/sym_keyboard_shift" android:isSticky="true" android:keyWidth="15.0%p" />
+  <Key android:keyLabel="Calc\nz" android:longKeyboard="$$calc" android:specKey="false" />
+  <Key android:keyLabel="\nx" />
+  <Key android:keyLabel="\nc" />
+  <Key android:keyLabel="\nv" />
+  <Key android:keyLabel="\nb" />
+  <Key android:keyLabel="\nn" />
+  <Key android:keyLabel="&#128231;\nm" android:longKeyboard="$hide_mail_MWcorp_v100"/>
+  <Key android:codes="-5" android:keyIcon="@drawable/sym_keyboard_delete" android:keyWidth="15.0%p" android:isRepeatable="true" />
+ </Row>
+ <Row>
+  <Key android:codes="-2" android:keyLabel="opt\n123" android:keyWidth="20.0%p" />
+  <Key android:keyLabel=";\n,"/>
+  <Key android:codes="32" android:keyIcon="@drawable/sym_keyboard_space" android:keyWidth="40.0%p" android:isRepeatable="true" />
+  <Key android:keyLabel=":\n." /> 
+  <Key android:codes="10" android:keyIcon="@drawable/sym_keyboard_return" android:keyWidth="20.0%p" />
+ </Row>
+</Keyboard>

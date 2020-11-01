@@ -1,0 +1,76 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Keyboard xmlns:android="http://schemas.android.com/apk/res/android" android:keyWidth="7.0%p" >
+ <Row>
+  <Key android:keyLabel="ё\n~" />
+  <Key android:keyLabel="!\n1" />
+  <Key android:keyLabel="№\n2" />
+  <Key android:keyLabel="#\n3" />
+  <Key android:keyLabel="$\n4" />
+  <Key android:keyLabel="%\n5" />
+  <Key android:keyLabel="^\n6" />
+  <Key android:keyLabel="&amp;\n7" />
+  <Key android:keyLabel="*\n8" />
+  <Key android:keyLabel="(\n9" />
+  <Key android:keyLabel=")\n0" />
+  <Key android:keyLabel="_\n-" />
+  <Key android:keyLabel="+\n=" />
+  <Key android:codes="-5" android:keyIcon="@drawable/sym_keyboard_delete" android:keyWidth="9.0%p" android:isRepeatable="true" />
+ </Row>
+ <Row>
+  <Key android:keyLabel="tab\n@" android:keyWidth="9.0%p" android:specKey="true" />
+  <Key android:keyLabel="й\nq" />
+  <Key android:keyLabel="ц\nw" />
+  <Key android:keyLabel="у\ne" />
+  <Key android:keyLabel="к\nr" />
+  <Key android:keyLabel="е\nt" />
+  <Key android:keyLabel="н\ny" />
+  <Key android:keyLabel="г\nu" />
+  <Key android:keyLabel="ш\ni" />
+  <Key android:keyLabel="щ\no" />
+  <Key android:keyLabel="з\np" />
+  <Key android:keyLabel="х\n[" />
+  <Key android:keyLabel="ъ\n]" />
+  <Key android:keyLabel="\\\n/" />
+ </Row>
+ <Row>
+  <Key android:codes="-20" android:keyWidth="11.0%p" android:keyLabel="d_vr\nEn" />
+  <Key android:keyLabel="ф\na" />
+  <Key android:keyLabel="ы\ns" />
+  <Key android:keyLabel="в\nd" />
+  <Key android:keyLabel="а\nf" />
+  <Key android:keyLabel="п\ng" />
+  <Key android:keyLabel="р\nh" />
+  <Key android:keyLabel="о\nj" />
+  <Key android:keyLabel="л\nk" />
+  <Key android:keyLabel="д\nl" />
+  <Key android:keyLabel="ж\n;" />
+  <Key android:keyLabel="э\n'" />
+  <Key android:codes="10" android:keyIcon="@drawable/sym_keyboard_return" android:keyWidth="12.0%p" />
+ </Row>
+ <Row>
+  <Key android:codes="-1" android:keyIcon="@drawable/sym_keyboard_shift" android:isSticky="true" android:keyWidth="14.0%p" />
+  <Key android:keyLabel="я\nz" />
+  <Key android:keyLabel="ч\nx" />
+  <Key android:keyLabel="с\nc" />
+  <Key android:keyLabel="м\nv" />
+  <Key android:keyLabel="и\nb" />
+  <Key android:keyLabel="т\nn" />
+  <Key android:keyLabel="ь\nm" />
+  <Key android:keyLabel="б\n," />
+  <Key android:keyLabel="ю\n." />
+  <Key android:keyLabel="|\n?" />
+  <Key android:keyLabel="↑" android:codes="19" android:isRepeatable="true" android:specKey="true" android:keyWidth="9.0%p" />
+  <Key android:keyLabel="sel" android:isSticky="true" android:codes="-310" android:specKey="true" android:smallLabel="true" />
+ </Row>
+ <Row>
+  <Key android:codes="-2" android:keyLabel="opt\n123" android:keyWidth="9.3%p" />
+  <Key android:codes="-320" android:keyLabel="copy" android:smallLabel="true" android:keyWidth="9.3%p" android:specKey="true" />
+  <Key android:codes="-321" android:keyLabel="paste" android:smallLabel="true" android:keyWidth="9.3%p" android:specKey="true" />
+  <Key android:keyLabel=":\n&lt;" />
+  <Key android:codes="32" android:keyIcon="@drawable/sym_keyboard_space" android:keyWidth="34.8%p" android:isRepeatable="true" />
+  <Key android:keyLabel="&quot;\n&gt;" />
+  <Key android:keyLabel="←" android:codes="21" android:isRepeatable="true" android:specKey="true" />
+  <Key android:keyLabel="↓" android:codes="20" android:isRepeatable="true" android:specKey="true" android:keyWidth="9.0%p" />
+  <Key android:keyLabel="→" android:codes="22" android:isRepeatable="true" android:specKey="true" />
+ </Row>
+</Keyboard>

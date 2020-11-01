@@ -1,0 +1,74 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Keyboard xmlns:android="http://schemas.android.com/apk/res/android" android:keyWidth="7%p">
+ <Row>
+  <Key android:codes="-3" android:longCode="-500" android:keyLabel ="⇲" android:keyWidth="7%p"/>
+  <Key android:keyLabel="" android:specKey="false"/>
+  <Key android:keyLabel="" android:specKey="false"/>
+  <Key android:keyLabel="" android:specKey="false"/>
+  <Key android:codes="-556" android:keyLabel="Cx" android:specKey="false"/>  
+  <Key android:codes="-570" android:keyLabel="MC" android:specKey="false"/>
+  <Key android:codes="-547" android:keyLabel="7" android:specKey="true"/>
+  <Key android:codes="-548" android:keyLabel="8" android:specKey="true"/>
+  <Key android:codes="-549" android:keyLabel="9" android:specKey="true"/>
+  <Key android:codes="-553" android:keyLabel="÷" android:specKey="true"/>
+  <Key android:codes="-563" android:keyLabel="^" android:specKey="false"/>
+  <Key android:codes="-557" android:keyLabel="↑" android:specKey="false"/>
+  <Key android:codes="-566" android:keyLabel ="⇦" android:specKey="false" />
+  <Key android:codes="-5" android:keyLabel ="⇦" android:keyWidth="9%p" android:isRepeatable="true" />
+ </Row>
+ <Row>
+  <Key android:keyLabel="tab\n      " android:keyWidth="9%p"/>
+  <Key android:keyLabel="" android:specKey="false"/>
+  <Key android:keyLabel="" android:specKey="false" />
+  <Key android:keyLabel="" android:specKey="false"/>
+  <Key android:codes="-562" android:keyLabel="On" android:specKey="false"/>
+  <Key android:codes="-569" android:keyLabel="MR" android:specKey="false"/>
+  <Key android:codes="-544" android:keyLabel="4" android:specKey="true"/>
+  <Key android:codes="-545" android:keyLabel="5" android:specKey="true"/>
+  <Key android:codes="-546" android:keyLabel="6" android:specKey="true"/>
+  <Key android:codes="-552" android:keyLabel="×" android:specKey="true"/>
+  <Key android:codes="-564" android:keyLabel="√" android:specKey="false"/>  
+  <Key android:codes="-558" android:keyLabel="⇄" android:specKey="false"/>
+  <Key android:codes="-565" android:keyLabel ="⇨" android:specKey="false" />  
+  <Key android:keyLabel="" android:specKey="true"/>
+ </Row>
+ <Row>  
+  <Key android:codes="-320" android:longCode="-321" android:keyLabel ="❏" android:keyWidth="11%p" />
+  <Key android:keyLabel="" android:specKey="false"/>
+  <Key android:keyLabel="" android:specKey="false"/>
+  <Key android:keyLabel="" android:specKey="false"/>
+  <Key android:codes="-561" android:keyLabel="Off" android:specKey="false"/>
+  <Key android:codes="-568" android:keyLabel="M " android:specKey="false"/>
+  <Key android:codes="-541" android:keyLabel="1" android:specKey="true"/>
+  <Key android:codes="-542" android:keyLabel="2" android:specKey="true"/>
+  <Key android:codes="-543" android:keyLabel="3" android:specKey="true"/>
+  <Key android:codes="-555" android:keyLabel="-" android:specKey="true"/>
+  <Key android:codes="-567" android:keyLabel="%" android:specKey="false"/>
+  <Key android:keyLabel="" android:specKey="false"/>
+  <Key android:codes="10" android:keyLabel ="↵" android:keyWidth="12%p" />
+ </Row>
+ <Row>
+  <Key android:codes="-1" android:keyLabel ="Shift\n" android:keyWidth="14%p"/>
+  <Key android:keyLabel="" android:specKey="false"/>
+  <Key android:keyLabel="" android:specKey="false"/>
+  <Key android:keyLabel="" android:specKey="false"/>
+  <Key android:keyLabel="" android:specKey="false"/>
+  <Key android:keyLabel="" android:specKey="false"/>
+  <Key android:codes="-540" android:keyLabel="0" android:specKey="true"/>
+  <Key android:codes="-560" android:keyLabel="," android:specKey="true"/>
+  <Key android:codes="-559" android:keyLabel="±" android:specKey="false"/>  
+  <Key android:codes="-554" android:keyLabel="+" android:specKey="true"/>  
+  <Key android:codes="-514" android:keyLabel="=" android:help="Как пользоваться калькулятором:\n\nОбычный калькулятор:\n2+3+4= (=9)\nКак вводить здесь:\n2[В↑]3+4+ (=9) \nметод обратной польской записи\n\nПроценты:\nОбычно:\n1000+0.39%= (получаем 10039)\nЗдесь:\n1000[В↑]0.39[%]+ (получаем 10039)\n\n↑ - копировать содержимое регистра x в y, y в z (команда 'В стрелка вверх' в МК61)\n⇄ - обмен содержимого регистров x и y\n\n⇨ - 'шаг вперед' - прибавляет к концу значения индикатора 0\n⇦ - 'шаг назад' - убирает последнюю цифру из значения индикатора\n\nM - запоминает значение индикатора в памяти\nMR - читает из памяти запомненное ранее значение и выдаёт его на индикатор калькулятора\nMC - очищает значение в ячейке памяти" android:specKey="false"  />  
+  <Key android:codes="19" android:keyLabel ="△" android:longCode="-323" android:keyWidth="8%p" android:specKey="true" />  
+  <Key android:codes="-310" android:longCode="-504" android:keyLabel ="✒" android:keyWidth="8%p" android:isSticky="true" /> 
+ </Row>
+ <Row>
+  <Key android:codes="-2"  android:keyLabel="\nabc" android:keyWidth="10%p" />
+  <Key android:codes="-20" android:longCode="-501" android:keyLabel="d_vr\nEn" android:keyWidth="10%p" />
+  <Key android:keyLabel="" />
+  <Key android:codes="32" android:keyIcon="@drawable/sym_keyboard_space" android:keyWidth="49%p" android:isRepeatable="true" />
+  <Key android:codes="21" android:longCode="-305" android:keyLabel ="◁" android:keyWidth="8%p" android:specKey="true"/>
+  <Key android:codes="20" android:longCode="-502" android:keyLabel="▽" android:keyWidth="8%p" android:specKey="true" />  
+  <Key android:codes="22" android:longCode="-306" android:keyLabel ="▷" android:keyWidth="8%p" android:specKey="true"/>
+</Row>
+</Keyboard>

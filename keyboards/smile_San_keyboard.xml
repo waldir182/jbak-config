@@ -1,0 +1,69 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Keyboard xmlns:android="http://schemas.android.com/apk/res/android" android:keyWidth="11.5%p" >
+ <Row>
+  <Key android:keyLabel="&#128066;\n&#128513;" />
+  <Key android:keyLabel="&#128067;\n&#128513;" />
+  <Key android:keyLabel="&#128068;\n&#128515;" />
+  <Key android:keyLabel="&#128069;\n&#128516;" />
+  <Key android:keyLabel="&#128070;\n&#128517;" />
+  <Key android:keyLabel="&#128071;\n&#128518;" />
+  <Key android:keyLabel="&#128072;\n&#128521;" />
+  <Key android:keyLabel="&#128073;\n&#128522;" />
+  <Key android:keyLabel="\n&#127759;" android:keyboard="$San keyboard_" android:keyWidth="7.8%p" />
+ </Row>
+ <Row>
+  <Key android:keyLabel="&#128074;\n&#128523;" />
+  <Key android:keyLabel="&#128075;\n&#128524;" />
+  <Key android:keyLabel="&#128076;\n&#128525;" />
+  <Key android:keyLabel="&#128077;\n&#128527;" />
+  <Key android:keyLabel="&#128078;\n&#128530;" />
+  <Key android:keyLabel="&#128079;\n&#128531;" />
+  <Key android:keyLabel="&#128080;\n&#128532;" />
+  <Key android:keyLabel="&#128099;\n&#128534;" />
+  <Key android:keyLabel="\n&#128515;" android:keyboard="$$smile" android:keyWidth="7.8%p" />
+ </Row>
+ <Row>
+  <Key android:keyLabel="&#128100;\n&#128536;" />
+  <Key android:keyLabel="&#128128;\n&#128538;" />
+  <Key android:keyLabel="&#128142;\n&#128540;" />
+  <Key android:keyLabel="&#128164;\n&#128541;" />
+  <Key android:keyLabel="&#128170;\n&#128542;" />
+  <Key android:keyLabel="\n&#128544;" />
+  <Key android:keyLabel="\n&#128545;" />
+  <Key android:keyLabel="\n&#128546;" />
+  <Key android:keyLabel="\n&#127750;" android:keyboard="$smile San_" android:keyWidth="7.8%p" />
+ </Row>
+ <Row>
+  <Key android:keyLabel="\n&#128547;" />
+  <Key android:keyLabel="\n&#128548;" />
+  <Key android:keyLabel="\n&#128549;" />
+  <Key android:keyLabel="\n&#128552;" />
+  <Key android:keyLabel="\n&#128553;" />
+  <Key android:keyLabel="\n&#128554;" />
+  <Key android:keyLabel="\n&#128555;" />
+  <Key android:keyLabel="\n&#128557;" />
+  <Key android:keyLabel="\n&#127873;" android:keyboard="$smile San D2_" android:keyWidth="7.8%p" />
+ </Row>
+ <Row>
+  <Key android:keyLabel="\n&#128560;" />
+  <Key android:keyLabel="\n&#128561;" />
+  <Key android:keyLabel="\n&#128562;" />
+  <Key android:keyLabel="\n&#128563;" />
+  <Key android:keyLabel="\n&#128565;" />
+  <Key android:keyLabel="\n&#128567;" />
+  <Key android:keyLabel="\n&#128568;" />
+  <Key android:keyLabel="\n&#128569;" />
+  <Key android:keyLabel="\n&#127968;" android:keyboard="$smile San D3_" android:keyWidth="7.8%p" />
+ </Row>
+ <Row>
+  <Key android:keyLabel="\n&#128571;" />
+  <Key android:keyLabel="\n&#128572;" />
+  <Key android:keyLabel="\n&#128573;" />
+  <Key android:keyLabel="\n&#128574;" />
+  <Key android:keyLabel="\n&#128575;" />
+  <Key android:keyLabel="\n&#128576;" />
+  <Key android:keyLabel="\n&#128570;" />
+  <Key android:keyLabel="\n&#128586;" />
+  <Key android:keyLabel="\n&#128302;" android:keyboard="$smile San D4_" android:keyWidth="7.8%p" />
+ </Row>
+</Keyboard>
